@@ -71,6 +71,12 @@ condensedboldcentert_condensedbold {
     text-align: center;
 }
 
+whitecondensedboldleft_condensedbold {
+	color: #FFFFFF;
+	text-align: left;
+	font-size: 20px;
+}
+
 whitecondensedboldright_condensedbold {
 	color: #e0e0de;
 	text-align: right;
@@ -258,10 +264,6 @@ p4center {
 	text-align: center;
 	letterSpacing: 0.3;
 }
-/*--------------------- Forgemagie style --------------*/
-smithmagicexo {color:#658fc4;}
-smithmagicfail {color:#cb685e;}
-smithmagicsuccess {color:#52ae3f;}
 /*--------------------- Suivi de quête ---------------*/
 questtitle {
 	font-family: Roboto;

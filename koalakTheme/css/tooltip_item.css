@@ -67,6 +67,32 @@ p {
 	color: #CB685E;
 }
 
+.neutral {
+	font-family: Roboto;
+	font-size: 15;
+	color: #969695;
+}
+
+.neutralvalue {
+	font-family: Roboto;
+	font-size: 15;
+	color: #969695;
+}
+
+.overFm {
+	font-family: Roboto;
+	font-size: 16;
+	font-weight: bold;
+	color: #5dcf45;
+}
+
+.overFmvalue {
+	font-family: Roboto;
+	font-size: 16;
+	font-weight: bold;
+	color: #5dcf45;
+}
+
 .subeffectleftcolumn {
 	margin-left: 32;
 	leading: -15;
@@ -92,7 +118,7 @@ p {
 .theoretical {
 	font-family: Roboto;
 	font-size: 15;
-	color: #c7c7c5 ;
+	color: #969695 ;
 }
 
 .requirement {
