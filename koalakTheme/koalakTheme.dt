@@ -1,0 +1,11 @@
+<theme>
+    <name>koalakTheme</name>
+    <skinType>1</skinType>
+    <description>Theme similaire a darkStone d'Ankama Games avec ajout d'elements Koalak</description>
+    <previewUri>koalakThemePreview.jpg</previewUri>
+	<author>Kofrro</author>
+	<version>1.0.0</version>
+	<dofusVersion>2.57</dofusVersion>
+	<creationDate>28/09/2020</creationDate>
+	<modificationDate>28/09/2020</modificationDate>
+</theme>
